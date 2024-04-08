@@ -1,6 +1,4 @@
-## Hi there 👋
-
-# Let's BEGIN a spatial-driven conversation
+# Hi there 👋 let's BEGIN a spatial-driven conversation
 Spatial data is key to unlocking a deeper understanding of our planet and its intricate systems. This is the public GitHub Organization where you can find the repositories we are working on that are related to our work.
 
 #  Who we are
